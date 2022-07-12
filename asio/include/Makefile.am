@@ -391,6 +391,7 @@ nobase_include_HEADERS = \
 	asio/experimental/channel.hpp \
 	asio/experimental/channel_error.hpp \
 	asio/experimental/channel_traits.hpp \
+	asio/experimental/co_composed.hpp \
 	asio/experimental/co_returns.hpp \
 	asio/experimental/co_spawn.hpp \
 	asio/experimental/concurrent_channel.hpp \
@@ -412,6 +413,7 @@ nobase_include_HEADERS = \
 	asio/experimental/detail/partial_promise.hpp \
 	asio/experimental/impl/as_single.hpp \
 	asio/experimental/impl/channel_error.ipp \
+	asio/experimental/impl/co_composed.hpp \
 	asio/experimental/impl/coro.hpp \
 	asio/experimental/impl/parallel_group.hpp \
 	asio/experimental/impl/promise.hpp \
