@@ -391,6 +391,7 @@ nobase_include_HEADERS = \
 	asio/experimental/channel.hpp \
 	asio/experimental/channel_error.hpp \
 	asio/experimental/channel_traits.hpp \
+	asio/experimental/co_returns.hpp \
 	asio/experimental/co_spawn.hpp \
 	asio/experimental/concurrent_channel.hpp \
 	asio/experimental/coro.hpp \
