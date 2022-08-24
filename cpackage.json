@@ -1,0 +1,9 @@
+{
+	"name": "asio",
+	"type": "interface",
+	"includeFolders": [ "asio/include" ],
+	"defines": [
+		"ASIO_HEADER_ONLY"
+	],
+	"version": "1.23.0"
+}
