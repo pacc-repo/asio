@@ -1,3 +1,6 @@
 /*.cpp
 /*.hpp
 /boost
+/build
+/bin
+premake5.lua
